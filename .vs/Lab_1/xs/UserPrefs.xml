@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{642C46A3-735D-1073-4A69-D3DC292C4393}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/code/PLayerHealth.cs">
+    <Files>
+      <File FileName="Assets/code/SoundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/Manager.cs" Line="30" Column="6" />
+      <File FileName="Assets/code/PLayerHealth.cs" Line="60" Column="49" />
+      <File FileName="Assets/code/HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/Coin.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/cameraPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/TilesManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/code/ScoreManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab_1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="code" expanded="True">
+                <Node name="PLayerHealth.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e25de22-9562-4fea-aa96-faa7b116b516" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
